@@ -10,7 +10,7 @@ To test the model, simply run ```infer.py```. It will probe the images in the ``
 
 > python infer.py
 > 
-## Evaluting
+## Evaluating
 > python evaluate.py
 > 
 ___
