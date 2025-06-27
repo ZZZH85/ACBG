@@ -19,6 +19,9 @@ For training, you need to first download the  training dataset and put them into
 
 > All file paths about training are stored in ```config.py```. You may modify them to accommodate your system. Besides, the weights of ACBG are stored in the ```ckpt``` folder.
 
+## Pretrained Models
+- Baidu Netdisk (百度网盘)：https://pan.baidu.com/s/1UgzcIo-Vpg2GsrfyjV-mjA?pwd=7yxr
+- Extraction Code (提取码)：7yxr
 ___
 ## Citations
 If ACBG helps your research or work, please kindly cite our paper. The following is a BibTeX reference.
